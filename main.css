@@ -1,0 +1,37 @@
+body{
+  background: linear-gradient(to right ,#417BE0,#B844EA)
+}
+h1{
+   text-align: center;
+   padding-top: 200px ;
+   color: white ;
+   opacity: 0.7 ;
+
+}
+form{
+   margin-left: 450px ;
+}
+.chng_o{
+  color: #03113F ;
+  text-align: center;
+
+}
+.myType{
+  margin-top: 5px;
+   width: 31%;
+   background: linear-gradient(to right ,#842A9C ,#2E013A);
+   color: white ;
+   margin-bottom: 15px;
+}
+.length_oi{
+  font-size: 18px;
+  padding: 5px;
+  margin-left: 2px;
+  background-color: #1B4785 ;
+  color: white ;
+}
+.length_oii{
+   width: 5%;
+   margin-bottom: 1px;
+   color: #03113F  ;
+}
